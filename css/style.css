@@ -8,7 +8,7 @@ form#newsletter-form {
 
 #errors {
     color: red;
-    padding-left: px;
+    padding-left: 20px;
 }
 
 input, label {
@@ -20,7 +20,7 @@ label {
 }
 
 input[type='text'], input[type='email'] {
-    height: 20 px;
+    height: 20px;
     width: 100%;
 }
 
